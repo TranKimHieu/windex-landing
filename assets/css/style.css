@@ -8640,6 +8640,9 @@ select:focus {
  transform:skewX(-33deg);
  transform-origin:right bottom
 }
+.bs-reverse {
+ display: none !important;
+}
 .background-shape.bs-reverse:before {
  left:auto;
  right:280px
